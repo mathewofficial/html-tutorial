@@ -1,0 +1,1 @@
+A html file always starts with the tag <html>.
